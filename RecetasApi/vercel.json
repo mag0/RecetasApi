@@ -2,14 +2,18 @@
   "version": 2,
   "builds": [
     {
-      "src": "RecetasApi.csproj",
+      "src": "RecipeApi.csproj",
       "use": "@vercel/dotnet"
     }
   ],
   "routes": [
     {
       "src": "/api/(.*)",
-      "dest": "/api/index"
+      "dest": "/api/$1"
+    },
+    {
+      "src": "/swagger/(.*)",
+      "dest": "/swagger/$1"
     },
     {
       "src": "/(.*)",
@@ -17,3 +21,4 @@
     }
   ]
 }
+
