@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\vercel.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +34,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "vercel.json",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\vercel.json",
+              "RelativeDocumentMoniker": "RecetasApi\\vercel.json",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\vercel.json",
+              "RelativeToolTip": "RecetasApi\\vercel.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T15:10:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RecetasApi.http",
               "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\RecetasApi.http",
               "RelativeDocumentMoniker": "RecetasApi\\RecetasApi.http",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "RecetasApi\\RecetasApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-12-26T14:56:06.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T14:56:06.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\appsettings.json",
               "RelativeDocumentMoniker": "RecetasApi\\appsettings.json",

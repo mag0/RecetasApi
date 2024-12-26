@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\controllers\\recetascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\data\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|c:\\users\\guerr\\source\\repos\\recetasapi\\recetasapi\\recetasapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1EAB9A17-AC82-47DB-8AEA-AC1CBDE2496B}|RecetasApi\\RecetasApi.csproj|solutionrelative:recetasapi\\recetasapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\appsettings.json",
-              "RelativeDocumentMoniker": "RecetasApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\appsettings.json",
-              "RelativeToolTip": "RecetasApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-26T14:47:03.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Program.cs",
-              "RelativeDocumentMoniker": "RecetasApi\\Program.cs",
-              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Program.cs",
-              "RelativeToolTip": "RecetasApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:46:41.226Z",
+              "DocumentIndex": 1,
+              "Title": "RecetasApi.http",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\RecetasApi.http",
+              "RelativeDocumentMoniker": "RecetasApi\\RecetasApi.http",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\RecetasApi.http",
+              "RelativeToolTip": "RecetasApi\\RecetasApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-26T14:56:06.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Entities\\Recipe.cs",
-              "RelativeDocumentMoniker": "RecetasApi\\Entities\\Recipe.cs",
-              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Entities\\Recipe.cs",
-              "RelativeToolTip": "RecetasApi\\Entities\\Recipe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:44:47.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MongoDbService.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Data\\MongoDbService.cs",
-              "RelativeDocumentMoniker": "RecetasApi\\Data\\MongoDbService.cs",
-              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Data\\MongoDbService.cs",
-              "RelativeToolTip": "RecetasApi\\Data\\MongoDbService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:44:08.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecetasController.cs",
-              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Controllers\\RecetasController.cs",
-              "RelativeDocumentMoniker": "RecetasApi\\Controllers\\RecetasController.cs",
-              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\Controllers\\RecetasController.cs",
-              "RelativeToolTip": "RecetasApi\\Controllers\\RecetasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T14:43:07.857Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\appsettings.json",
+              "RelativeDocumentMoniker": "RecetasApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\guerr\\source\\repos\\RecetasApi\\RecetasApi\\appsettings.json",
+              "RelativeToolTip": "RecetasApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-26T14:47:03.476Z",
               "EditorCaption": ""
             }
           ]
